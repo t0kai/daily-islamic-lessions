@@ -1,1 +1,1 @@
-window.KDIL={SITE_URL:"https://YOUR-DOMAIN.example",GA_ID:"",GSC:""};
+window.KDIL={SITE_URL:"https://daily-islamic-lessions.vercel.app",GA_ID:"",GSC:""};
